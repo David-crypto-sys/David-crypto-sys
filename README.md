@@ -14,11 +14,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 Soy estudiante
   
-- 🌱 I’m currently learning Git, Python y GitHub
+- 🌱 I’m currently learning Git, Python, GitHub y frontend
   
-- 👯 Trabajar en equipo que buen es.
+- 👯 Trabajar en equipo que bueno es.
   
 - 💬 Te ayudare algun dia.
   
